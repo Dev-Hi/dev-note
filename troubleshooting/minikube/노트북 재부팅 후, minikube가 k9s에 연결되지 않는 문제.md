@@ -24,6 +24,8 @@ The connection to the server 127.0.0.1:57453 was refused - did you specify the r
 
 WSL2에서 `minikube status`명령어를 통해, 아래의 결과를 얻었음
 
+
+
 ```json
 type: Control Plane
 host: Running
@@ -43,6 +45,8 @@ kubeconfig: Misconfigured
 `minikube start`를 이용하여 minikube를 구성하는 요소들을 실행상태로 만들어준다.
 
 그리고 `minikube status`를 입력하면 정상적으로 실행되는 것을 확인할 수 있다.
+
+
 
 ```json
 type: Control Plane
