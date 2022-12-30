@@ -26,7 +26,7 @@ WSL2에서 `minikube status`명령어를 통해, 아래의 결과를 얻었음
 
 
 
-```json
+```
 type: Control Plane
 host: Running
 kubelet: Stopped
@@ -48,7 +48,7 @@ kubeconfig: Misconfigured
 
 
 
-```json
+```
 type: Control Plane
 host: Running
 kubelet: Running
